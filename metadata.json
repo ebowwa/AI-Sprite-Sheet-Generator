@@ -1,0 +1,5 @@
+{
+  "name": "AI Sprite Sheet Generator",
+  "description": "Generate custom sprite sheets from a text description using AI. Describe your character or object, and let the AI create the animation frames for you.",
+  "requestFramePermissions": []
+}
